@@ -18,5 +18,5 @@ if(flag==false)
     console.log("Palindrome string");
 }
 else{
-    console.log("Not Palindrome String");
+    console.log("Palindrome String");
 }
