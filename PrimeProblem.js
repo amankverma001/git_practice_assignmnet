@@ -14,4 +14,3 @@ if(count==2)
 else{
 
 console.log("Not a Prime Number");
-}
