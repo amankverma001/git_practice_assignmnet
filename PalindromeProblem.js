@@ -18,9 +18,9 @@ if(flag==false)
     console.log("Palindrome string");
 }
 else{
-<<<<<<< HEAD
+
     console.log("Palindrome  not String");
-=======
+
     console.log("Not Palindrome String");
->>>>>>> ab446f94d849dae3e97d6c7c267705d9c0992f2c
+
 }
