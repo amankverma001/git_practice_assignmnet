@@ -19,7 +19,7 @@ if(flag==false)
 }
 else{
 
-    console.log("Palindrome  not String");
+   
 
     console.log("Not Palindrome String");
 
